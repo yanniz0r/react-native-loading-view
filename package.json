@@ -1,0 +1,30 @@
+{
+  "name": "react-native-loading-view",
+  "version": "1.0.0",
+  "description": "Loading view to show your user that magic is happening in the background.",
+  "main": "LoadingView.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanniz0r/react-native-loading-view.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "loading",
+    "view",
+    "spinner",
+    "activity",
+    "indicator",
+    "background",
+    "loader"
+  ],
+  "author": "Yannic Inselmann <yannic.inselmann@gmail.com> (http://inseldu.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanniz0r/react-native-loading-view/issues"
+  },
+  "homepage": "https://github.com/yanniz0r/react-native-loading-view#readme"
+}

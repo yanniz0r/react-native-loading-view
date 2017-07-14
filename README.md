@@ -1,6 +1,8 @@
 # react-native-loading-view
 Loading view to show your user that magic is happening in the background.
 
+![Screenshot](/media/loading-view-screenshot.png)
+
 ## Installation
 Install an save it with npm...
 ```

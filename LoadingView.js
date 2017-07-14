@@ -67,7 +67,6 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(0,0,0,0.5)',
   },
   loadingText: {
-    color: '#fff',
     fontWeight: '600',
     marginTop: 10,
     fontSize: 18,

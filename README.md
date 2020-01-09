@@ -9,13 +9,13 @@ Install and save it with npm...
 npm install --save react-native-loading-view
 ```
 Import it in the file you want to use it in...
-```
+```js
 import LoadingView from 'react-native-loading-view'
 ```
 
 ## Usage
 Just wrap the components you want to hide while loading in a LoadingView component. It won't show its children unless the prop `loading` is set to `false`.
-```
+```javascript
 // This LoadingView would never show its children
 <LoadingView loading={true}>
     <Text>Im finished!</Text>

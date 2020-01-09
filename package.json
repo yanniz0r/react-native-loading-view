@@ -1,6 +1,6 @@
 {
   "name": "react-native-loading-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loading view to show your user that magic is happening in the background.",
   "main": "LoadingView.js",
   "scripts": {
